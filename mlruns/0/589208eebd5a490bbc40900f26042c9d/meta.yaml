@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/drjodyannjones/Documents/MLEngineering/End-to-End-Cancer-Classification-Project/mlruns/0/589208eebd5a490bbc40900f26042c9d/artifacts
+end_time: 1711829790197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 589208eebd5a490bbc40900f26042c9d
+run_name: caring-shad-117
+run_uuid: 589208eebd5a490bbc40900f26042c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711829785054
+status: 3
+tags: []
+user_id: drjodyannjones
